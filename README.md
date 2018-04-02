@@ -4,7 +4,10 @@
 |---------------|------------|-----|
 | Jeongkyu Shin | Instructor |     |
 | Jaewoo Yang   | Student    |     |
+<<<<<<< HEAD
 | JK            | Student    |     |
+=======
+>>>>>>> parent of fb46d1b... README.md (#35)
 
 # Galtron
 A simple 2D shooter made with pygame, written in python...
